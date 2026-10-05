@@ -43,21 +43,9 @@ structuring, and drug-related questions to a `DrugInteractionSubAgent` for RxNav
 pharmacist referral (never LLM recall). A `MemoryAgent` persists chat history in SQLite and adds session-scoped
 semantic recall over a separate ChromaDB collection.
 
----
 
-[![Project demo video](https://github.com/user-attachments/assets/d491cf14-a7b0-4fce-804e-b174da779f7a)](https://github.com/user-attachments/assets/d491cf14-a7b0-4fce-804e-b174da779f7a)
 
-<img width="1366" height="614" alt="Image" src="https://github.com/user-attachments/assets/4b5dd09d-3c0d-4caa-9c27-120b1c0b8026" />
 
-<img width="1366" height="614" alt="Image" src="https://github.com/user-attachments/assets/03376e11-32fd-45a9-a9ec-baa6ff8468d6" />
-
----
-
-## **Live Demo**
-
-You can interact with the live AI-powered medical assistant here: [https://medigenius.onrender.com/](https://medigenius.onrender.com/)
-
----
 
 ## **Safety Architecture**
 
