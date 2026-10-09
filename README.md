@@ -465,15 +465,3 @@ The project includes a pre-configured CI/CD pipeline (`.github/workflows/ci-cd.y
 - **Verification thresholds are unvalidated heuristics.**
 - **Latency figures above are single-run measurements from one test session**
 
----
-
-## **Developed By**
-
-**Nidhi Kuntal**  
-**Email:** [nidhikuntal9@gmail.com](mailto:nidhikuntal9@gmail.com)  
-**GitHub:** [nidhi752](https://github.com/nidhi752)  
-**LinkedIn:** [Nidhi Kuntal](https://www.linkedin.com/in/nidhikuntal0310/)
----
-
-## License
-MIT License. Free to use with credit.
